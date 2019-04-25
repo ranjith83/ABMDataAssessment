@@ -1,0 +1,6 @@
+C:\Users\Ranjith\source\repos\ABMDataAssessment\ABMDataBL\bin\Debug\ABMDataBL.dll
+C:\Users\Ranjith\source\repos\ABMDataAssessment\ABMDataBL\bin\Debug\ABMDataBL.pdb
+C:\Users\Ranjith\source\repos\ABMDataAssessment\ABMDataBL\obj\Debug\ABMDataBL.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith\source\repos\ABMDataAssessment\ABMDataBL\obj\Debug\ABMDataBL.dll
+C:\Users\Ranjith\source\repos\ABMDataAssessment\ABMDataBL\obj\Debug\ABMDataBL.pdb
+C:\Users\Ranjith\source\repos\ABMDataAssessment\ABMDataBL\obj\Debug\ABMDataBL.csprojAssemblyReference.cache

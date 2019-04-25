@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9035cfe2-2685-45a7-8b9e-c693cfde683f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52373/PayloadService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PayloadService.xsd" MetadataType="Schema" ID="287420f8-158f-4acb-baba-9a30cf3f9281" SourceId="1" SourceUrl="http://localhost:52373/PayloadService.svc?xsd=xsd2" />
+    <MetadataFile FileName="PayloadService.wsdl" MetadataType="Wsdl" ID="a563746f-dc8a-42fd-80fc-9527ded416d3" SourceId="1" SourceUrl="http://localhost:52373/PayloadService.svc?wsdl" />
+    <MetadataFile FileName="PayloadService1.xsd" MetadataType="Schema" ID="3939f818-8ace-4868-a98b-313122d737df" SourceId="1" SourceUrl="http://localhost:52373/PayloadService.svc?xsd=xsd1" />
+    <MetadataFile FileName="PayloadService2.xsd" MetadataType="Schema" ID="0632e27a-4683-493c-b934-a41e11c3e9e3" SourceId="1" SourceUrl="http://localhost:52373/PayloadService.svc?xsd=xsd0" />
+    <MetadataFile FileName="PayloadService.disco" MetadataType="Disco" ID="34f0b70b-5f23-4c84-a979-59ff1a287f92" SourceId="1" SourceUrl="http://localhost:52373/PayloadService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
