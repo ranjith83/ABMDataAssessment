@@ -11,3 +11,16 @@ C:\Users\Ranjith\source\repos\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.
 C:\Users\Ranjith\source\repos\ABMDataAssessment\EDIFACTApp\bin\Debug\ABMDataBL.dll
 C:\Users\Ranjith\source\repos\ABMDataAssessment\EDIFACTApp\bin\Debug\ABMDataBL.pdb
 C:\Users\Ranjith\source\repos\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.csproj.CopyComplete
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\bin\Debug\EDIFACTApp.exe.config
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\bin\Debug\EDIFACTApp.exe
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\bin\Debug\EDIFACTApp.pdb
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\bin\Debug\ABMDataBL.dll
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\bin\Debug\ABMDataBL.pdb
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.csprojAssemblyReference.cache
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.StartForm.resources
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.Properties.Resources.resources
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.csproj.GenerateResource.cache
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.csproj.CopyComplete
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.exe
+C:\Users\Ranjith\Source\Repos\ranjith83\ABMDataAssessment\EDIFACTApp\obj\Debug\EDIFACTApp.pdb
